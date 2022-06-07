@@ -98,4 +98,46 @@ p {
   
 }
 
+.row7wrapper {
+  display: flex;
+}
+
+.redRow7 {
+  background-color: red;
+  width: 50px;
+}
+
+.blueRow7 {
+  flex: 1;
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: space-between;
+}
+
+.blueLine7 {
+  height: 33%;
+  background-color: blue;
+}
+
+.row8wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.yellowRow8 {
+  background-color: orange;
+  width: 80px;
+}
+
+.row9wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.yellowRow9 {
+  background-color: orange;
+  width: 19%;
+}
+
+
 
